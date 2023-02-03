@@ -16,3 +16,6 @@
 [submodule "[207] Programación de Sistemas y Concurrencia"]
 	path = [207] Programación de Sistemas y Concurrencia
 	url = git@github.com:15Galan/asignatura-207.git
+[submodule "[210] Sistemas Operativos"]
+	path = [210] Sistemas Operativos
+	url = git@github.com:15Galan/asignatura-210.git
