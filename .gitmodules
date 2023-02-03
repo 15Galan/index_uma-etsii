@@ -34,3 +34,6 @@
 [submodule "[306] Sistemas de Información para Internet"]
 	path = [306] Sistemas de Información para Internet
 	url = git@github.com:15Galan/asignatura-306.git
+[submodule "[401] Proyectos y Legislación"]
+	path = [401] Proyectos y Legislación
+	url = git@github.com:15Galan/asignatura-401.git
