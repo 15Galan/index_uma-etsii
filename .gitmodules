@@ -25,3 +25,6 @@
 [submodule "[302] Procesadores de Lenguajes"]
 	path = [302] Procesadores de Lenguajes
 	url = git@github.com:15Galan/asignatura-302.git
+[submodule "[303] Seguridad de la Información"]
+	path = [303] Seguridad de la Información
+	url = git@github.com:15Galan/asignatura-303.git
