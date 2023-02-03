@@ -10,3 +10,6 @@
 [submodule "[203] Estructura de Computadores"]
 	path = [203] Estructura de Computadores
 	url = git@github.com:15Galan/asignatura-203.git
+[submodule "[204] Estructuras de Datos"]
+	path = [204] Estructuras de Datos
+	url = git@github.com:15Galan/asignatura-204.git
