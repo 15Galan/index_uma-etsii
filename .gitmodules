@@ -19,3 +19,6 @@
 [submodule "[210] Sistemas Operativos"]
 	path = [210] Sistemas Operativos
 	url = git@github.com:15Galan/asignatura-210.git
+[submodule "[301] Introducción a los Sistemas de Información"]
+	path = [301] Introducción a los Sistemas de Información
+	url = git@github.com:15Galan/asignatura-301.git
