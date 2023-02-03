@@ -22,3 +22,6 @@
 [submodule "[301] Introducción a los Sistemas de Información"]
 	path = [301] Introducción a los Sistemas de Información
 	url = git@github.com:15Galan/asignatura-301.git
+[submodule "[302] Procesadores de Lenguajes"]
+	path = [302] Procesadores de Lenguajes
+	url = git@github.com:15Galan/asignatura-302.git
