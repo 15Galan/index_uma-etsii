@@ -49,3 +49,6 @@
 [submodule "{431} Diseño y Evaluación de Infraestructuras Informáticas"]
 	path = {431} Diseño y Evaluación de Infraestructuras Informáticas
 	url = git@github.com:15Galan/mencion-431.git
+[submodule "{432} Planificación de Proyectos y Análisis de Riesgos"]
+	path = {432} Planificación de Proyectos y Análisis de Riesgos
+	url = git@github.com:15Galan/mencion-432.git
