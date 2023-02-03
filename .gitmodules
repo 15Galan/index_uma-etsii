@@ -28,3 +28,6 @@
 [submodule "[303] Seguridad de la Información"]
 	path = [303] Seguridad de la Información
 	url = git@github.com:15Galan/asignatura-303.git
+[submodule "[305] Administración de Bases de Datos"]
+	path = [305] Administración de Bases de Datos
+	url = git@github.com:15Galan/asignatura-305.git
