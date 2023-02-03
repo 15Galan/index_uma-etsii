@@ -94,7 +94,7 @@ Si estás estudiando en la _ETSII_ de la _Universidad de Málaga_, puedo ofrecer
             <td><a href="https://github.com/15Galan/asignatura-401" target="_blank" rel="noopener noreferrer">Proyectos y Legislación</a></td>
         </tr>
         <tr>
-            <td><b>Diseño y Evaluación de Infraestructuras Informáticas</b></td>
+            <td><b><a href="https://github.com/15Galan/mencion-431" target="_blank" rel="noopener noreferrer">Diseño y Evaluación de Infraestructuras Informáticas</a></b></td>
             <td><i>Arquitecturas Clúster</i></td>
         </tr>
         <tr>
