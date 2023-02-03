@@ -46,3 +46,6 @@
 [submodule "{430} Administración de Sistemas Operativos"]
 	path = {430} Administración de Sistemas Operativos
 	url = git@github.com:15Galan/mencion-430.git
+[submodule "{431} Diseño y Evaluación de Infraestructuras Informáticas"]
+	path = {431} Diseño y Evaluación de Infraestructuras Informáticas
+	url = git@github.com:15Galan/mencion-431.git
