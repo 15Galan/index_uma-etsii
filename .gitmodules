@@ -40,6 +40,9 @@
 [submodule "{303} Desarrollo de Servicios Telemáticos"]
 	path = {303} Desarrollo de Servicios Telemáticos
 	url = git@github.com:15Galan/mencion-330.git
-[submodule "[331] Modelos Estadísticos y Simulación"]
-	path = [331] Modelos Estadísticos y Simulación
+[submodule "{331} Modelos Estadísticos y Simulación"]
+	path = {331} Modelos Estadísticos y Simulación
 	url = git@github.com:15Galan/mencion-331.git
+[submodule "{430} Administración de Sistemas Operativos"]
+	path = {430} Administración de Sistemas Operativos
+	url = git@github.com:15Galan/mencion-430.git
