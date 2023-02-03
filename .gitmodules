@@ -1,3 +1,6 @@
 [submodule "[107] Métodos Estadísticos para la Computación"]
 	path = [107] Métodos Estadísticos para la Computación
 	url = git@github.com:15Galan/asignatura-107.git
+[submodule "[109] Programación Orientada a Objetos"]
+	path = [109] Programación Orientada a Objetos
+	url = git@github.com:15Galan/asignatura-109.git
