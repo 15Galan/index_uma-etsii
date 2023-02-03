@@ -1,7 +1,9 @@
-# Mis asignaturas
+# Contenido
 
-Si estás estudiando en la _ETSII_ de la _Universidad de Málaga_, puedo ofrecerte material de las asignaturas en azul: cada enlace conduce al repositorio de dicha asignatura.
-* **Negrita** para las asignaturas de mi mención.
+Este repositorio está orientado a servir como índice para los repositorios de las diferentes asignaturas del **Grado de Ingeniería Informática** de la **Universidad de Málaga**, donde cada asignatura tiene su propio repositorio en el que se encuentran sus apuntes, ejercicios, prácticas, exámenes resueltos...
+
+La siguiente tabla contiene enlaces a los repositorios originales (en azul) y está clasificada por años y cuatrimestres; además, se ha utilizado el formato:
+* **Negrita** para las asignaturas de mi mención (**Tecnologías de la Información**).
 * _Cursiva_ para mis asignaturas optativas.
 
 <table align="center">
@@ -108,5 +110,23 @@ Si estás estudiando en la _ETSII_ de la _Universidad de Málaga_, puedo ofrecer
     </tbody>
 </table>
 
+# Uso del repositorio
 
+Se usan [submódulos de Git](https://www.git-scm.com/book/es/v2/Herramientas-de-Git-Subm%C3%B3dulos), por lo que puede obtenerse el contenido del repositorio original de cualquier asignatura de la siguiente forma:
 
+Clonar este repositorio y todos los submódulos:
+```bash
+git clone --recursive
+```
+
+Actualizar todos los submódulos del repositorio:
+```bash
+git submodule update --init --recursive
+```
+
+Obtener el contenido de una asignatura en concreto:
+```bash
+git submodule update --init <carpeta de la asignatura>
+```
+
+Cualquiera de estos comandos es necesario al clonar el repositorio por primera vez o de lo contrario, los submódulos estáran vacíos, lo que podría llevar a confusión.
