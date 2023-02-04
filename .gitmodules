@@ -1,0 +1,54 @@
+[submodule "[107] Métodos Estadísticos para la Computación"]
+	path = [107] Métodos Estadísticos para la Computación
+	url = git@github.com:15Galan/asignatura-107.git
+[submodule "[109] Programación Orientada a Objetos"]
+	path = [109] Programación Orientada a Objetos
+	url = git@github.com:15Galan/asignatura-109.git
+[submodule "[201] Análisis y Diseño de Algoritmos"]
+	path = [201] Análisis y Diseño de Algoritmos
+	url = git@github.com:15Galan/asignatura-201.git
+[submodule "[203] Estructura de Computadores"]
+	path = [203] Estructura de Computadores
+	url = git@github.com:15Galan/asignatura-203.git
+[submodule "[204] Estructuras de Datos"]
+	path = [204] Estructuras de Datos
+	url = git@github.com:15Galan/asignatura-204.git
+[submodule "[207] Programación de Sistemas y Concurrencia"]
+	path = [207] Programación de Sistemas y Concurrencia
+	url = git@github.com:15Galan/asignatura-207.git
+[submodule "[210] Sistemas Operativos"]
+	path = [210] Sistemas Operativos
+	url = git@github.com:15Galan/asignatura-210.git
+[submodule "[301] Introducción a los Sistemas de Información"]
+	path = [301] Introducción a los Sistemas de Información
+	url = git@github.com:15Galan/asignatura-301.git
+[submodule "[302] Procesadores de Lenguajes"]
+	path = [302] Procesadores de Lenguajes
+	url = git@github.com:15Galan/asignatura-302.git
+[submodule "[303] Seguridad de la Información"]
+	path = [303] Seguridad de la Información
+	url = git@github.com:15Galan/asignatura-303.git
+[submodule "[305] Administración de Bases de Datos"]
+	path = [305] Administración de Bases de Datos
+	url = git@github.com:15Galan/asignatura-305.git
+[submodule "[306] Sistemas de Información para Internet"]
+	path = [306] Sistemas de Información para Internet
+	url = git@github.com:15Galan/asignatura-306.git
+[submodule "[401] Proyectos y Legislación"]
+	path = [401] Proyectos y Legislación
+	url = git@github.com:15Galan/asignatura-401.git
+[submodule "{303} Desarrollo de Servicios Telemáticos"]
+	path = {303} Desarrollo de Servicios Telemáticos
+	url = git@github.com:15Galan/mencion-330.git
+[submodule "{331} Modelos Estadísticos y Simulación"]
+	path = {331} Modelos Estadísticos y Simulación
+	url = git@github.com:15Galan/mencion-331.git
+[submodule "{430} Administración de Sistemas Operativos"]
+	path = {430} Administración de Sistemas Operativos
+	url = git@github.com:15Galan/mencion-430.git
+[submodule "{431} Diseño y Evaluación de Infraestructuras Informáticas"]
+	path = {431} Diseño y Evaluación de Infraestructuras Informáticas
+	url = git@github.com:15Galan/mencion-431.git
+[submodule "{432} Planificación de Proyectos y Análisis de Riesgos"]
+	path = {432} Planificación de Proyectos y Análisis de Riesgos
+	url = git@github.com:15Galan/mencion-432.git
