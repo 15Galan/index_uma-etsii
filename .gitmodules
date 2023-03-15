@@ -34,12 +34,12 @@
 [submodule "[306] Sistemas de Información para Internet"]
 	path = [306] Sistemas de Información para Internet
 	url = git@github.com:15Galan/asignatura-306.git
+[submodule "{330} Desarrollo de Servicios Telemáticos"]
+	path = {330} Desarrollo de Servicios Telemáticos
+	url = git@github.com:15Galan/mencion-330.git
 [submodule "[401] Proyectos y Legislación"]
 	path = [401] Proyectos y Legislación
 	url = git@github.com:15Galan/asignatura-401.git
-[submodule "{303} Desarrollo de Servicios Telemáticos"]
-	path = {303} Desarrollo de Servicios Telemáticos
-	url = git@github.com:15Galan/mencion-330.git
 [submodule "{331} Modelos Estadísticos y Simulación"]
 	path = {331} Modelos Estadísticos y Simulación
 	url = git@github.com:15Galan/mencion-331.git
