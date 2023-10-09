@@ -52,3 +52,15 @@
 [submodule "{432} Planificación de Proyectos y Análisis de Riesgos"]
 	path = {432} Planificación de Proyectos y Análisis de Riesgos
 	url = git@github.com:15Galan/mencion-432.git
+[submodule "[450] Trabajo de Fin de Grado/Defensa"]
+	path = [450] Trabajo de Fin de Grado/Defensa
+	url = git@github.com:15Galan/tfg_defensa.git
+[submodule "[450] Trabajo de Fin de Grado/Memoria"]
+	path = [450] Trabajo de Fin de Grado/Memoria
+	url = git@github.com:15Galan/tfg_memoria.git
+[submodule "[450] Trabajo de Fin de Grado/Proyecto (plataforma)"]
+	path = [450] Trabajo de Fin de Grado/Proyecto (plataforma)
+	url = git@github.com:15Galan/tfg_sitio.git
+[submodule "[450] Trabajo de Fin de Grado/Proyecto (laboratorios)"]
+	path = [450] Trabajo de Fin de Grado/Proyecto (laboratorios)
+	url = git@github.com:15Galan/tfg_laboratorios.git
