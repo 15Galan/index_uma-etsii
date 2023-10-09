@@ -1,8 +1,15 @@
-# Mis asignaturas
+<div align="center">
+    <br/>
+    <img src=".github/readme/etsii-claro.png#gh-light-mode-only" height=150 alt="ETSII logo (claro)"/>
+    <img src=".github/readme/etsii-oscuro.png#gh-dark-mode-only" height=150 alt="ETSII logo (oscuro)"/>
+    <br/>
+</div>
 
-Si estás estudiando en la _ETSII_ de la _Universidad de Málaga_, puedo ofrecerte material de las asignaturas en azul: cada enlace conduce al repositorio de dicha asignatura.
-* **Negrita** para las asignaturas de mi mención.
-* _Cursiva_ para mis asignaturas optativas.
+# Índice de mis asignaturas
+
+Este repositorio contiene una colección de otros respositorios, en forma de [submódulos de Git](https://www.git-scm.com/book/es/v2/Herramientas-de-Git-Subm%C3%B3dulos), correspondiente a mis asignaturas del **Grado de Ingeniería Informática**, cursada en la **Universidad de Málaga**.
+
+## Asignaturas disponibles
 
 <table align="center">
     <thead align="center">
@@ -103,10 +110,60 @@ Si estás estudiando en la _ETSII_ de la _Universidad de Málaga_, puedo ofrecer
         </tr>
         <tr>
             <td><b>Tecnología de los Sistemas de Producción</b></td>
-            <td>T.F.G</td>
+            <td><a href="https://github.com/15Galan/index_uma-etsii/tree/master/%5B450%5D%20Trabajo%20de%20Fin%20de%20Grado" target="_blank" rel="noopener noreferrer">Trabajo de Fin de Grado</td>
         </tr>
     </tbody>
 </table>
 
+La tabla anterior muestra todas las asignaturas del grado según el *Plan de Estudios de 2010 - 2023*, con la siguiente leyenda:
 
+* [Azul](): asignaturas con repositorio.
+* **Negrita**: asignaturas de mi mención.
+* _Cursiva_: asignaturas optativas.
 
+> **Note**  
+> La asignatura del TFG es especial y conduce a una carpeta en este mismo repositorio: esto es así porque se usaron 4 repositorios distintos para el desarrollo del TFG y dicha carpeta actúa como *punto de entrada* común al contenido.
+
+## Acceso al contenido
+
+Tienes varias formas de acceder a los apuntes y ejercicios de las asignaturas anteriores:
+
+- Hacer clic en cualquier enlace de la tabla.
+- Navegar por los submódulos de este repositorio.
+- Visitar los propios repositorios de las asignaturas.
+
+### Clonado de los repositorios
+
+Igual que la sección anterior, tienes varias formas de clonar los repositorios de las asignaturas:
+
+- **Clonar este repositorio** y navegar por los submódulos.  
+- **Clonar cualquier repositorio** de forma independiente.
+
+#### Todas las asignaturas
+
+Esto clonará este repositorio, y todos los submódulos en él, de forma recursiva:
+
+```bash
+git clone --recursive <este-repositorio>
+```
+
+> **Note**  
+> Entiende que estarás clonando **el equivalente a 20 repositorios** distintos, lo que se reflejará en espacio de almacenamiento y tiempo de descarga.
+
+#### Asignaturas independientes
+
+Esto puedes hacerlo simplemente visitando el repositorio de cada asignatura en cuestión y clonándolo de forma normal.
+
+No obstante, si quieres usar este repositorio para ello, puedes simplemente:
+
+1. Clonar este repositorio de forma normal:
+
+```bash
+git clone <este-repositorio>
+```
+
+2. Dentro del repositorio, actualizar (descargar) los submódulos que quieras:
+
+```bash
+git submodule update --init <ruta-asignatura-1> <ruta-asignatura-2> <...>
+```
