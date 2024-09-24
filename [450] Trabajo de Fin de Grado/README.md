@@ -1,9 +1,10 @@
 # Trabajo de Fin de Grado
 
 - **Título**: Desarrollo e implementación de una plataforma web de entrenamiento en ciberseguridad
+- **Alumno**: Antonio Javier Galán Herrera ([LinkedIn](https://www.linkedin.com/in/srgalan))
 - **Tutor**: José Antonio Onieva González ([página del NICS](https://www.nics.uma.es/jose-a-onieva))
 
-> **Note**  
+> [!NOTE]
 > Este TFG no corresponde a ninguna línea de trabajo ofrecida por el centro, sino a una idea original concebida entre el tutor y yo.
 
 ## Resumen
@@ -12,8 +13,8 @@ El objetivo principal de este TFG es la realización de una plataforma web de en
 
 La plataforma abarcará conceptos relacionados con el ámbito del pentesting y permitirá a los usuarios acceder a entornos virtualizados -laboratorios- donde poner en práctica los conocimientos adquiridos.
 
-> **Note**  
-> No es una plataforma de CTFs.
+> [!WARNING]
+> No es una plataforma de CTF.
 
 ## Calificación
 
